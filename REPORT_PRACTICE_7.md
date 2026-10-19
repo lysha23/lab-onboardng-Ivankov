@@ -168,11 +168,14 @@ Pull Request, направленного в develop.
 
 ### 4.2. Ссылка на Pull Request
 
-ССЫЛКУ ДОБАВЛЮ ПОСЛЕ СОЗДАНИЯ PULL REQUEST.
+https://github.com/lysha23/lab-onboardng-Ivankov/pull/7
 
 ### 4.3. Результат проверки и скриншот
 
-РЕЗУЛЬТАТ И СКРИНШОТ ДОБАВЛЮ ПОСЛЕ ЗАВЕРШЕНИЯ CHECKS.
+Проверка Linter Check / lint завершилась успешно.
+Ошибок flake8 не обнаружено.
+<img width="1034" height="651" alt="Снимок экрана 2026-10-05 в 14 11 16" src="https://github.com/user-attachments/assets/4d134f39-3984-4bf0-b51e-e7974d3a99b8" />
+
 
 ## Вывод
 
